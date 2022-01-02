@@ -1,0 +1,15 @@
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\ComputerMonitor.exe.config
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\ComputerMonitor.exe
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\ComputerMonitor.pdb
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\MetroFramework.Design.dll
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\MetroFramework.dll
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\bin\Debug\MetroFramework.Fonts.dll
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.csproj.SuggestedBindingRedirects.cache
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.Properties.Resources.resources
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.csproj.GenerateResource.cache
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.csproj.CoreCompileInputs.cache
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.csproj.CopyComplete
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.exe
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.pdb
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.Form1.resources
+D:\_DEV\ComputerMonitor\ComputerMonitor\ComputerMonitor\obj\Debug\ComputerMonitor.csproj.AssemblyReference.cache
